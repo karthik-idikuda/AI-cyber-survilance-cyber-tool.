@@ -31,7 +31,4 @@
 | `Git LFS` 📦 | Handling large model and binary files |
 | `TensorFlow` 🤖 | Deep learning model framework |
 
----
-
-## 📁 Project Structure
 
