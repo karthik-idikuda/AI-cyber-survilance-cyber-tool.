@@ -1,34 +1,36 @@
-# 🛡️ AI Cyber Surveillance Tool
+<div align="center">
 
-> An intelligent, real-time cyber threat detection and surveillance tool powered by machine learning and computer vision.
+# AI cyber survilance cyber tool.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Language" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=law&logoColor=white" alt="License" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
+</p>
+
+*An advanced software structure developed by Karthik Idikuda.*
+
+<br/>
+
+</div>
+
+## Overview
+This repository contains the source code and configuration for **AI-cyber-survilance-cyber-tool.**. It is engineered to provide robust, scalable, and efficient operations.
+
+<br/>
+
+## Architecture & Features
+- **Clean Architecture:** Ensures high maintainability and modular structure.
+- **Optimized Performance:** Built to handle intensive operations with minimal latency.
+- **Scalable Design:** Seamlessly adaptable for future functional expansions.
+
+<br/>
+
+## License
+This project operates under the **MIT License**. See the `LICENSE` file for more details.
 
 ---
-
-## 🚀 Features
-
-- 🔍 **Real-Time Threat Detection**  
-  Uses YOLOv5 and OpenCV for object detection and suspicious behavior recognition.
-
-- 🧠 **AI-Powered Monitoring**  
-  Trained deep learning models to detect cyber threats and anomalies in surveillance feeds.
-
-- 📊 **Interactive Dashboard** *(Coming Soon)*  
-  Visual interface for monitoring threat levels and logs.
-
-- 🔐 **Secure Architecture**  
-  Utilizes Git LFS for handling large binary files securely and efficiently.
-
----
-
-## 🏗️ Tech Stack
-
-| Tech | Description |
-|------|-------------|
-| `Python` 🐍 | Core programming language |
-| `OpenCV` 👁️ | Real-time computer vision |
-| `YOLOv5` 🎯 | Object detection and classification |
-| `Flask` 🌐 | Lightweight backend server (if applicable) |
-| `Git LFS` 📦 | Handling large model and binary files |
-| `TensorFlow` 🤖 | Deep learning model framework |
-
-
+<div align="center">
+  <br/>
+  <i>Engineered by <b>Karthik Idikuda</b></i>
+</div>
